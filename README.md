@@ -1,0 +1,1 @@
+# azure-geoserver-vm-resources
